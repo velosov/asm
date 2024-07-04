@@ -11,3 +11,5 @@ Registers:
     [Tables](https://syscall.sh/)
 
 PIE: Position Independent Executables, implemented by default by gcc to leverage Address Space Layout Randomization (ASLR) as a form of mitigation of memory vulnerabilities. Changes resources' address locations.
+
+[Syntaxes](https://gist.github.com/mishurov/6bcf04df329973c15044) [explanation](https://imada.sdu.dk/u/kslarsen/dm546/Material/IntelnATT.htm)
